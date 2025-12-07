@@ -1,7 +1,7 @@
 # Hey, I'm Riuler! :wave: :vulcan_salute:
 
 
-I am a Data Analyst proficient in Power BI, SQL and Python, specializing in libraries like Pandas, Pysark, and Matplotlib.
+I am a Data Analyst proficient in Power BI, SQL and Python, specializing in libraries like Pandas, Pyspark, and Matplotlib.
 
 
 
